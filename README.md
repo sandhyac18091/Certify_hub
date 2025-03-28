@@ -31,12 +31,12 @@
 - **JWT(JSON Web Tokens)**:Secure user authentication and manages session.
 ##  Installation
 
-1.Clone the repository:
+1.**Clone the repository**:
 
 ```bash
  git clone "git@github.com:sandhyac18091/Certify_hub.git"
 ```
-2.Build and Start the application:
+2.**Build and Start the application**:
 ```bash
  docker -compose up --build
 ```
